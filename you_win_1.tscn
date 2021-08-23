@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://you-win-neon-sign-design-template-neon-sign_77399-337.jpg" type="Texture" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 571.464, 309.543 )
+scale = Vector2( 4.38145, 2.83162 )
+texture = ExtResource( 1 )
